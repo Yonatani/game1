@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"><a href="https://www.epicweb.dev/epic-stack">The Epic Stack 🚀</a></h1>
   <strong align="center">
-    Ditch analysis paralysis and start shipping Epic Web apps.
+    Yoni Ditch analysis paralysis and start shipping Epic Web apps.
   </strong>
   <p>
     This is an opinionated project starter and reference that allows teams to
